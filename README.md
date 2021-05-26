@@ -31,5 +31,5 @@ should include the protocol, e.g. `https://example.com`.
 
 ## Issue Bot stopped responding 
 
-   If bot is not responding, open `https://<appname>.herokuapp.com/` and try again.
+   If bot is not responding, open `https://<appname>.herokuapp.com/` and try again
    Issue - https://github.com/tulir/tgfilestream/issues/9
